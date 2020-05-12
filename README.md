@@ -1,5 +1,7 @@
 # docker-registry
 
+- referance document:[https://docs.docker.com/registry/deploying](https://docs.docker.com/registry/deploying/#copy-an-image-from-docker-hub-to-your-registry)
+
 ### lab model
 ```
 ------------+---------------------------+-------------
