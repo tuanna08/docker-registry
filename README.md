@@ -1,4 +1,4 @@
-# docker-registry on centos 7
+# docker-registry
 
 ### lab model
 ```
